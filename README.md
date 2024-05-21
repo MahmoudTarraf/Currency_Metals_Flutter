@@ -1,6 +1,27 @@
-# homework
+# Currency and Metals Today
 
-A new Flutter project.
+This is a flutter project done with the following technologies:
+Flutter that depends on Dart.
+Api calls through http package.
+Cubit which is a statemanagment solution in flutter.
+
+***
+This application consists of two main screens:
+
+1_ Currency screen:
+In which we are getting the data from the free API : 
+  https://openexchangerates.org/api/
+2_ Metals screen:
+In which we are getting the data from the free API : 
+  https://www.goldapi.io/api/
+
+DISCLAIMER:
+This project for testing pruposes only... in order to see or get real time data you need to create a premium account on these platforms:
+
+https://www.goldapi.io/api/
+https://openexchangerates.org/api/
+
+The provided data may be cashed or out of date!
 
 ## Getting Started
 
